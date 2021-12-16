@@ -2,9 +2,9 @@
 
 namespace Leasify\TallTree;
 
+use Leasify\TallTree\Commands\TallTreeCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Leasify\TallTree\Commands\TallTreeCommand;
 
 class TallTreeServiceProvider extends PackageServiceProvider
 {
