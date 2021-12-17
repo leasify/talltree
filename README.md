@@ -9,7 +9,7 @@
 
 [First small start](https://play.tailwindcss.com/uiDmKqbvXW)
 
-![first idea](https://raw.githubusercontent.com/leasify/talltree/main/resources/images/talltree.png =250x)
+![first idea](https://raw.githubusercontent.com/leasify/talltree/main/resources/images/talltree.png)
 ## Installation
 
 You can install the package via composer:
